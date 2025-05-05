@@ -71,4 +71,10 @@ Olá
 |-------|-------|-------|
 |Ana    |25     |Fortaleza|
 |João   |30     |Caucaia|
-|
+
+
+#Checklist
+
+- [ ] Tarefa pendente
+- [x] Tarefa concluída
+
