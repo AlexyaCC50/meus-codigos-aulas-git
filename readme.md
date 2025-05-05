@@ -78,3 +78,9 @@ Olá
 - [ ] Tarefa pendente
 - [x] Tarefa concluída
 
+
+# Emojis
+
+:smile
+:rocket
+:thumbsup
