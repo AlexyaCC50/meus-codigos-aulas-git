@@ -81,6 +81,14 @@ Olá
 
 # Emojis
 
-:smile:
-:rocket:
-:thumbsup:
+:smile: sorriso
+
+
+:rocket: foguete
+
+
+:thumbsup: joinha
+
+
+
+
