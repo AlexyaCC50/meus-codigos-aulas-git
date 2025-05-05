@@ -48,6 +48,6 @@
 
 [Text do link](https://www.google.com)
 
-![Texto alternativo] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZqZkpMyiN2uSuT7GAf6JSkJ44YsZqoQHdw&s)
+![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZqZkpMyiN2uSuT7GAf6JSkJ44YsZqoQHdw&s)
 
 
