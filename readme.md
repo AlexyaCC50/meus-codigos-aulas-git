@@ -14,7 +14,7 @@
 
 ~~Riscado~~  
 
-# Listas
+# Listas não ordenadas
 
 * item 1
 * item 2
@@ -31,4 +31,16 @@
 + item 3
 
 
+# Listas ordenadas 
+
+1. primeiro item
+2. segundo item
+3. terceito item
+
+
+# Subitens (identação com 2 espaços ou tab)
+
+- Item
+    - subitem 1.1
+    - subitem 1.2
 
