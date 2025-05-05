@@ -7,5 +7,28 @@
 
 # Ênfases (negrito, itálico, riscado)
 *Itálico*  ou _Itálico_
+
+
 **Negrito** ou __Negrito__
+
+
 ~~Riscado~~  
+
+# Listas
+
+* item 1
+* item 2
+* item 3
+
+
+- item 1
+- item 2
+- item 3
+
+
++ item 1
++ item 2
++ item 3
+
+
+
