@@ -59,6 +59,16 @@
 ```` print ('Olá Markdown')````
 
 
+# Linha Horizontal
+
 ---
 Olá
 ---
+
+# Tabelas
+
+|Nome   |Idade  |Cidade |
+|-------|-------|-------|
+|Ana    |25     |Fortaleza|
+|João   |30     |Caucaia|
+|
