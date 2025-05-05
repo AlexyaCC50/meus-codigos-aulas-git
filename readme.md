@@ -81,6 +81,6 @@ Olá
 
 # Emojis
 
-:smile
-:rocket
-:thumbsup
+:smile:
+:rocket:
+:thumbsup:
