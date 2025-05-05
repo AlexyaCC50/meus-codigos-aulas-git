@@ -48,5 +48,6 @@
 
 [Text do link](https://www.google.com)
 
-![Texto alternativo] (https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png)
+![Texto alternativo] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZqZkpMyiN2uSuT7GAf6JSkJ44YsZqoQHdw&s)
+
 
