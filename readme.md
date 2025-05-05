@@ -53,4 +53,12 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZqZkpMyiN2uSuT7GAf6JSkJ44YsZqoQHdw&s" width=300px>
 
 
+# Blocos de código
+
+
 ```` print ('Olá Markdown')````
+
+
+---
+Olá
+---
